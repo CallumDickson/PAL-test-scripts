@@ -1,0 +1,9 @@
+PROGRAM mixedWITHandIN
+IN
+    a, b AS REAL
+    i AS INTEGER
+WITH
+    a = 1.0
+    b = 2.0
+    i = 1
+END

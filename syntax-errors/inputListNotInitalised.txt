@@ -1,0 +1,10 @@
+PROGRAM factorialLoop
+WITH i, j, factorial AS INTEGER
+IN
+    INPUT i, i,
+    j = 1
+    UNTIL j = i REPEAT
+        factorial = factorial * i
+    ENDLOOP
+    OUTPUT factorial
+END

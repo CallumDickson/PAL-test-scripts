@@ -1,0 +1,6 @@
+PROGRAM sumNotDefined
+WITH
+    a AS INTEGER
+IN
+    a = -5 + (b * -5)
+END

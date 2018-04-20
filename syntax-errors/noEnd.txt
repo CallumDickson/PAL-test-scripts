@@ -1,0 +1,8 @@
+PROGRAM noEnd
+WITH
+    a, b AS REAL
+    i AS INTEGER
+IN
+    a = 1.0
+    b = 2.0
+    i = 1

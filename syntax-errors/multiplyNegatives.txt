@@ -1,0 +1,6 @@
+PROGRAM multiplyNegatives
+WITH
+    a AS INTEGER
+IN
+    a = -5 6 * -5
+END

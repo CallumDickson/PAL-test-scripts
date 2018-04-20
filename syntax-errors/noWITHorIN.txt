@@ -1,0 +1,7 @@
+PROGRAM noEnd
+    a, b AS REAL
+    i AS INTEGER
+    a = 1.0
+    b = 2.0
+    i = 1
+END

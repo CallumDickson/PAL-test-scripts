@@ -1,0 +1,6 @@
+PROGRAM DivideError
+WITH
+    a AS INTEGER
+IN
+    a = 5 // 5
+END

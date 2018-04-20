@@ -1,0 +1,10 @@
+PROGRAM HelloWorld
+WITH
+    a32b, b AS REAL
+    i AS INTEGER
+IN
+    INPUT a32b , b
+    IF a32b > b THEN
+    ELSE
+    ENDIF
+END
